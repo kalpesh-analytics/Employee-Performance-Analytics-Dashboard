@@ -29,11 +29,11 @@ An Excel-based dashboard designed to analyze employee performance, productivity,
 ![Employee Performance Dashboard](Employee_Performance_Dashboard.png)
 
 ## Project Structure
-│
-├── README.md
-├── Dataset/
-└── Screenshots/
 
+- **README.md** – Project overview and details.
+- **Employee Performance Data.xlsx** – Contains Data and Dashboard sheets.
+- **Employee_Performance_Dashboard.png** – Dashboard preview.
+  
 ## Key Learnings
 - Data Analysis using Excel
 - KPI Monitoring
@@ -43,4 +43,3 @@ An Excel-based dashboard designed to analyze employee performance, productivity,
 ## Author
 Kalpesh Gosavi
 
-*My First Data Analytics Project*
