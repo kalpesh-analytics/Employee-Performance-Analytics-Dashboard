@@ -28,9 +28,11 @@ An Excel-based dashboard designed to analyze employee performance, productivity,
 ## Dashboard Preview
 ![Employee Performance Dashboard](Employee_Performance_Dashboard.png)
 
-## Project Files
-- **Excel Workbook:** Contains both Data and Dashboard sheets.
-- **Screenshot:** Dashboard preview.
+## Project Structure
+│
+├── README.md
+├── Dataset/
+└── Screenshots/
 
 ## Key Learnings
 - Data Analysis using Excel
